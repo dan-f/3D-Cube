@@ -1,0 +1,10 @@
+Daniel Friedman, Fall 2012
+I affirm that I have adhered to the Honor Code in this assignment.
+Made for CS357 (Computer Graphics).
+--------------------------------------------------------------------------------
+
+An implementation of the full view transformation (translating world coordinates
+to screen (pixel) coordinates) in C, using OpenGL libraries. Draws a simple 3D
+cube outline, only drawing upon 2D OpenGL functions. Simple GUI controls gives
+the viewer control over the look-at point, viewer position, and view angle
+theta.
